@@ -1,2 +1,4 @@
 # gonaPract
-Just to test Git
+to test Git
+hgaihagihf
+
